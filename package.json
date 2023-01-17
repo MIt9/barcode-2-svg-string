@@ -1,0 +1,28 @@
+{
+  "name": "barcode-2-svg-string",
+  "version": "0.9.0",
+  "description": "Create svg string from barcode without canvas",
+  "main": "src/index.js",
+  "types": "src/types/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MIt9/barcode-2-svg.git"
+  },
+  "keywords": [
+    "barcode",
+    "svg",
+    "browser",
+    "node",
+    "node.js",
+    "server"
+  ],
+  "author": "D.Bilukha <siniidrozd@gmail.com> (http://fozzy.ua/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MIt9/barcode-2-svg/issues"
+  },
+  "homepage": "https://github.com/MIt9/barcode-2-svg#readme"
+}
