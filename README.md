@@ -1,4 +1,4 @@
-# barcode-2-svg
+# barcode-2-svg-string
 
 Create svg file on server/browser side without canvas
 Work well in all modern browser
